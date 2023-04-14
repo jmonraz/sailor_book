@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091530786889",
+    "project_id": "sailorbook-1cf3f",
+    "storage_bucket": "sailorbook-1cf3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091530786889:android:2b3edb64794d73fc81d798",
+        "android_client_info": {
+          "package_name": "com.monraztech.book_manager_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091530786889-rqg5om6qmpsskbch6j8mdvg72vlntfnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC82wjMS7wpn3JbAvBYMjy8Z4rf5XrWv54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091530786889-rqg5om6qmpsskbch6j8mdvg72vlntfnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
